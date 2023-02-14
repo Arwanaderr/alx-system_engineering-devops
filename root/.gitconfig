@@ -1,0 +1,8 @@
+[user]
+	email = arwahalawa.cg@gmail.com
+	name = Arwanaderr
+	emai = arwahalawa.cg@gmail.com
+[arwanaderr "arwahalawa.cg@gmail"]
+	com = arwahalawa@gmail.com
+[commit]
+	template = /root/.gitmessage.txt
